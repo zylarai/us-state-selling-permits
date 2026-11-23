@@ -4,6 +4,8 @@ Do you need a permit to sell at a craft fair, on Etsy or from a market stall, an
 
 Published by [Zylar](https://zylarai.com/?utm_source=github&utm_medium=referral&utm_campaign=dataset_selling_permits&utm_content=readme) under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence. You can use, share and adapt it, including commercially, as long as you credit Zylar and link to the source.
 
+**Permanent copy and citation (DOI):** [10.5281/zenodo.24483920](https://doi.org/10.5281/zenodo.24483920). Also on [Kaggle](https://www.kaggle.com/datasets/zylarai/us-sellers-permits-and-business-licenses-2026).
+
 Companion dataset: [US state LLC formation and yearly fees](https://github.com/zylarai/us-state-llc-fees) (DOI [10.5281/zenodo.24404984](https://doi.org/10.5281/zenodo.24404984)).
 
 ## At a glance
@@ -60,7 +62,7 @@ Companion dataset: [US state LLC formation and yearly fees](https://github.com/z
 
 ## How to cite
 
-Zylar (2026). *US state seller's permits and state business licenses (50 states and DC, 2026)* (Version v2026.11) [Data set]. https://github.com/zylarai/us-state-selling-permits
+Zylar (2026). *US state seller's permits and state business licenses (50 states and DC, 2026)* (Version v2026.11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24483920
 
 ## About Zylar
 
