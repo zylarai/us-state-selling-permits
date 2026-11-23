@@ -1,0 +1,8 @@
+{
+  "upload_type": "dataset",
+  "title": "US state seller's permits and state business licenses (50 states and DC, 2026)",
+  "creators": [{"name": "Zylar"}],
+  "license": "cc-by-4.0",
+  "keywords": ["sales tax", "seller's permit", "business license", "small business", "United States"],
+  "description": "For each US state and DC: the registration a seller needs to collect sales tax, the issuing agency, fee, deposit or bond, renewal, temporary and event seller rules, local registration and any general state business license. Checked on official state pages on November 23, 2026, with sources per row and unconfirmed fields listed in to_confirm. CC BY 4.0."
+}

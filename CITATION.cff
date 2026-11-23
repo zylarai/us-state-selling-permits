@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "US state seller's permits and state business licenses (50 states and DC, 2026)"
+authors:
+  - name: "Zylar"
+    website: "https://zylarai.com"
+type: dataset
+license: CC-BY-4.0
+url: "https://zylarai.com/start-a-business"
+repository-code: "https://github.com/zylarai/us-state-selling-permits"
+date-released: "2026-11-23"
+version: "2026.11"
+keywords:
+  - sales tax
+  - seller's permit
+  - business license
+  - small business
+  - United States
