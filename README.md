@@ -66,4 +66,4 @@ Zylar (2026). *US state seller's permits and state business licenses (50 states 
 
 ## About Zylar
 
-Zylar checks a business or startup idea before you build it: what the market says, who else does it, whether you can deliver it and what could go wrong, with a scored verdict in a few minutes. It is in early alpha. [Join the waitlist](https://zylarai.com/?utm_source=github&utm_medium=referral&utm_campaign=dataset_selling_permits&utm_content=readme_about#waitlist). Advisory only. You decide.
+Zylar checks a business or startup idea before you build it: what the market says, who else does it, whether you can deliver it and what could go wrong, with a scored verdict in a few minutes. It is in early alpha and free to try: [sign up here](https://zylarai.com/?utm_source=github&utm_medium=referral&utm_campaign=dataset_selling_permits&utm_content=readme_about). Advisory only. You decide.
